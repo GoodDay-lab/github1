@@ -24,3 +24,7 @@ hello
 hello
 hello
 hello
+<<<<<<< HEAD
+=======
+hello
+>>>>>>> 33694552d95e75b27bc0e122a3134343ed397d29
