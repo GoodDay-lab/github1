@@ -6,7 +6,7 @@ def cmd(string):
     if string != "":
         return
     else:
-        os.system(string)
+        print(os.system(string))
 
 
 cmd(sys.argv[1])
