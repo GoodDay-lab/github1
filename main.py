@@ -1,3 +1,13 @@
 import os
+import sys
 
-os.system("ls")
+
+def cmd(string):
+    if string != "":
+        return
+    else:
+        os.system(string)
+
+
+cmd(sys.argv[1])
+
